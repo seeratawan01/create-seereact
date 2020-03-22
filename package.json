@@ -6,6 +6,14 @@
   "bin": {
     "create-seereact": "index.js"
   },
+  "bugs": {
+    "url": "https://github.com/Xuntron/create-seereact/issues"
+  },
+  "homepage": "https://github.com/Xuntron/create-seereact",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xuntron/create-seereact.git"
+  },
   "publishConfig": {
     "access": "public"
   },
