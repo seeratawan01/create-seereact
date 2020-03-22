@@ -1,4 +1,4 @@
-# SeeReact - CreateSeereat Boilerplate
+# SeeReact - Create-Seereact Boilerplate
 ### The Simple Scaleable Boilerplate For React
 
 This boilerplate is already configured for react app with [Babel](https://github.com/babel/babel), [webpack](https://github.com/webpack/webpack) and [eslint](https://eslint.org/docs/rules/) but you still can easily configure it in your own way.
@@ -9,16 +9,17 @@ This boilerplate is already configured for react app with [Babel](https://github
 * A build script to bundle JS, CSS, and images for production
 * CSS/SASS/SCSS ready to use
 
-## Qucik Start
+## Usage with npx
+
+### `npx create-seereact MyReactApp`
+Then `cd` to your `MyReactApp`
+
+## Install globally
 
 ### `npm install -g create-seereact`
 
-To install boilerplate.
+## Creating a New Boilerplate
 
-### `create-seereact myapp`
-
-To create your app.
-
-### `cd myapp`
+### `create-seereact MyReactApp && cd MyReactApp`
 
 
